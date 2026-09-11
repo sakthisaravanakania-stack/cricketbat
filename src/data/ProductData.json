@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Grade 1 English Willow cricket bat with clean balance and thick edges",
+    "brand": "Kookaburra",
+    "price": 14999,
+    "image": "/pic1.jpeg",
+    "description": "Grade 1 English Willow cricket bat with clean balance and thick edges."
+  },
+  {
+    "id": 2,
+    "name": "Premium English Willow bat crafted for power hitting and optimum sweet spot.",
+    "brand": "NRF",
+    "price": 18500,
+    "image": "/pic2.jpeg",
+    "description": "Premium English Willow bat crafted for power hitting and optimum sweet spot."
+  },
+  {
+    "id": 3,
+    "name": "Air dried willow with massive contour shape and light pickup.",
+    "brand": "SS",
+    "price": 12499,
+    "image": "/pic3.jpeg",
+    "description": "Air dried willow with massive contour shape and light pickup."
+  },
+  {
+    "id": 4,
+    "name": "Finest English Willow with traditional round handle for maximum control.",
+    "brand": "SG",
+    "price": 13999,
+    "image": "/pic4.jpeg",
+    "description": "Finest English Willow with traditional round handle for maximum control."
+  },
+  {
+    "id": 5,
+    "name": "Professional cricket bat designed for excellent balance and powerful strokes.",
+    "brand": "MRF",
+    "price": 15999,
+    "image": "/pic5.jpeg",
+    "description": "Professional cricket bat designed for excellent balance and powerful strokes."
+  },
+  {
+    "id": 6,
+    "name": "Premium willow bat with thick edges and superior stroke performance.",
+    "brand": "SS",
+    "price": 11999,
+    "image": "/pic6.jpeg",
+    "description": "Premium willow bat with thick edges and superior stroke performance."
+  },
+  {
+    "id": 7,
+    "name":"High performance cricket bat suitable for aggressive stroke play." ,
+    "brand": "SS",
+    "price": 13499,
+    "image": "/pic7.jpeg",
+    "description": "High performance cricket bat suitable for aggressive stroke play."
+  },
+  {
+    "id": 8,
+    "name": "Lightweight English Willow bat offering superb pickup and power.",
+    "brand": "Kookaburra",
+    "price": 16999,
+    "image": "/pic8.jpeg",
+    "description": "Lightweight English Willow bat offering superb pickup and power."
+  },
+  {
+    "id": 9,
+    "name": "Classic cricket bat with excellent balance and a wide sweet spot.",
+    "brand": "SG",
+    "price": 12999,
+    "image": "/pic9.jpeg",
+    "description": "Classic cricket bat with excellent balance and a wide sweet spot."
+  },
+  {
+    "id": 10,
+    "name": "Premium professional cricket bat built for power, control and performance Cricket Bat",
+    "brand": "GM",
+    "price": 18999,
+    "image": "/pic10.jpeg",
+    "description": "Premium professional cricket bat built for power, control and performance."
+  }
+]
